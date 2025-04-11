@@ -5,3 +5,5 @@ while (tempo >= 0){
     tempo--;
 }
 console.log("fim!")
+
+// João Stopiglia (@CiaociaoStopiglia) - 11/04/25
