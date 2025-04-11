@@ -9,3 +9,5 @@ while(numero <= 10){
     numero++;
 
 } 
+
+// Exemplo feito em aula (SENAI - primeiro ano) por: @Eduardo1985S

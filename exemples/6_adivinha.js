@@ -14,3 +14,5 @@ while (palpite !== numeroSecreto){
 }
 
 console.log(`numero de tentativas ${quantidadeTentativas}`);
+
+// Exemplo feito em aula (SENAI - primeiro ano) por: @thiago-rferreira

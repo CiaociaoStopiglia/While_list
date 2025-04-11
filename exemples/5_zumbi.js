@@ -18,3 +18,4 @@ while (vida > 0){
 }
 
 //tudo da sequencia só acontece após o while ser concluido.
+// Exemplo feito em aula (SENAI - primeiro ano) por: @thiago-rferreira
